@@ -8,3 +8,7 @@
 [15-Dec-2020 06:55:46 UTC] PHP Notice:  Array to string conversion in /home/hannamarii/public_html/wordpress/wp-includes/general-template.php on line 2192
 [15-Dec-2020 06:55:46 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/hannamarii/public_html/wordpress/wp-includes/general-template.php on line 2238
 [15-Dec-2020 06:55:46 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/hannamarii/public_html/wordpress/wp-includes/general-template.php on line 2239
+[16-Dec-2020 08:53:55 UTC] PHP Notice:  Undefined offset: 0 in /home/hannamarii/public_html/wordpress/wp-content/plugins/all-in-one-seo-pack/admin/class-aioseop-notices.php on line 231
+[17-Dec-2020 14:26:31 UTC] PHP Notice:  Undefined offset: 0 in /home/hannamarii/public_html/wordpress/wp-content/plugins/all-in-one-seo-pack/admin/class-aioseop-notices.php on line 231
+[18-Dec-2020 12:15:37 UTC] PHP Notice:  Undefined offset: 0 in /home/hannamarii/public_html/wordpress/wp-content/plugins/all-in-one-seo-pack/admin/class-aioseop-notices.php on line 231
+[20-Dec-2020 16:33:24 UTC] PHP Notice:  Undefined offset: 0 in /home/hannamarii/public_html/wordpress/wp-content/plugins/all-in-one-seo-pack/admin/class-aioseop-notices.php on line 231
