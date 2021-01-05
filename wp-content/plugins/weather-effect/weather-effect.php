@@ -1,13 +1,27 @@
 <?php
 /*
-Plugin Name: Joulud
-Plugin URI: https://hanna-mariikriisa.ikt.khk.ee/wordpress/
-Description: Joulud
-Version: 1.0
-Author: Hanna-Marii Kriisa
-Author URI: https://hanna-mariikriisa.ikt.khk.ee/wordpress/
+Plugin Name: Weather Effect
+Plugin URI: https://awplife.com/
+Description: This is Weather Effect Widget.
+Version: 1.2.10
+Author: A WP Life
+Author URI: https://awplife.com/
+License: GPLv2 or later
 Text Domain: weather-effect
 Domain Path: /languages
+
+Weather Effect is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+any later version.
+ 
+Weather Effect is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public License
+along with User Registration. If not, see https://www.gnu.org/licenses/gpl-2.0.html.
 */
 
 define( 'WE_PLUGIN_PATH', plugin_dir_url( __FILE__ ) );
