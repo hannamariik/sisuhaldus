@@ -147,3 +147,6 @@
 [06-Jan-2021 17:23:00 UTC] PHP Notice:  Undefined variable: snow_falling_color in /home/hannamarii/public_html/wordpress/wp-content/plugins/weather-effect/output.php on line 241
 [08-Jan-2021 08:35:27 UTC] PHP Notice:  Undefined variable: snow_falling_color in /home/hannamarii/public_html/wordpress/wp-content/plugins/weather-effect/output.php on line 241
 [11-Jan-2021 06:59:54 UTC] PHP Notice:  Undefined variable: snow_falling_color in /home/hannamarii/public_html/wordpress/wp-content/plugins/weather-effect/output.php on line 241
+[11-Jan-2021 07:00:58 UTC] PHP Notice:  Undefined variable: snow_falling_color in /home/hannamarii/public_html/wordpress/wp-content/plugins/weather-effect/output.php on line 241
+[11-Jan-2021 07:01:23 UTC] PHP Notice:  Undefined variable: snow_falling_color in /home/hannamarii/public_html/wordpress/wp-content/plugins/weather-effect/output.php on line 241
+[11-Jan-2021 07:20:25 UTC] PHP Notice:  Undefined variable: snow_falling_color in /home/hannamarii/public_html/wordpress/wp-content/plugins/weather-effect/output.php on line 241
